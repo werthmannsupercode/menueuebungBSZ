@@ -1,0 +1,17 @@
+nav {
+    text-align: center;
+    margin: 5vh 0;
+}
+
+a {
+    padding: 0 20px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+img {
+    width: 50vw;
+    margin: 5vh 25vw 0 25vw;
+}
